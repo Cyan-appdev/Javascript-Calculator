@@ -8,7 +8,7 @@ function App() {
         <Display />
         <Keypad />
       </div>
-      <p className="text-cyan-400">Designed and coded by CG</p>
+      <p className="text-cyan-400">Designed and coded by CyanDev</p>
     </div>
   );
 }
