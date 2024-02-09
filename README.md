@@ -10,4 +10,5 @@ For the fulfillment of Build a JavaScript Calculator Project using Formula Logic
 
 ##
 
+![alt text](/public/image.png)
 FreeCodeCamp Profile - [@CyanDev](https://www.freecodecamp.org/CyanDev)
